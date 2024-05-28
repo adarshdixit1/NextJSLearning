@@ -1,7 +1,7 @@
 const localData = [
     {
         id: 1,       
-         name: "Great Wall of China",
+         name: "Great",
         location: "China"
     },
     {
