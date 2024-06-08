@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // components/MyComponent.tsx
 'use client'
 import React from 'react';
@@ -15,3 +16,14 @@ const MyComponent = () => {
 };
 
 export default MyComponent;
+=======
+import React from "react";
+
+const Page =()=>{
+    return(
+        <>This is default page</>
+    )
+}
+
+export default Page
+>>>>>>> main

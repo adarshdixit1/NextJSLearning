@@ -1,6 +1,9 @@
 // app/layout.tsx
 import React, { ReactNode } from 'react';
+<<<<<<< HEAD
 import { ThemeProvider } from './ContextTheme/theme-provider'; // Adjust the path if necessary
+=======
+>>>>>>> main
 
 interface RootLayoutProps {
   children: ReactNode;
@@ -14,11 +17,17 @@ export const metadata = {
 const RootLayout: React.FC<RootLayoutProps> = ({ children }) => {
   return (
     <html lang="en">
+<<<<<<< HEAD
       <ThemeProvider>
         <body>
           {children}
         </body>
       </ThemeProvider>
+=======
+      <body>
+          {children}
+      </body>
+>>>>>>> main
     </html>
   );
 };
