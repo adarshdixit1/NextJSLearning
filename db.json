@@ -1,0 +1,64 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "title": "Wireless Headphones",
+      "price": 99.99,
+      "description": "High-quality wireless headphones with noise-cancellation and 20-hour battery life."
+    },
+    {
+      "id": 2,
+      "title": "Smartwatch",
+      "price": 199.99,
+      "description": "Feature-rich smartwatch with health monitoring and GPS tracking."
+    },
+    {
+      "id": 3,
+      "title": "Gaming Laptop",
+      "price": 1499.99,
+      "description": "Powerful gaming laptop with high-end graphics and fast processor."
+    },
+    {
+      "id": 4,
+      "title": "Bluetooth Speaker",
+      "price": 49.99,
+      "description": "Portable Bluetooth speaker with rich sound quality and long battery life."
+    },
+    {
+      "id": 5,
+      "title": "4K TV",
+      "price": 799.99,
+      "description": "Ultra HD 4K TV with vibrant colors and smart features."
+    },
+    {
+      "id": 6,
+      "title": "E-Reader",
+      "price": 129.99,
+      "description": "Lightweight e-reader with adjustable backlight and long battery life."
+    },
+    {
+      "id": 7,
+      "title": "Wireless Mouse",
+      "price": 29.99,
+      "description": "Ergonomic wireless mouse with precision tracking and customizable buttons."
+    },
+    {
+      "id": 8,
+      "title": "Electric Toothbrush",
+      "price": 59.99,
+      "description": "Rechargeable electric toothbrush with multiple brushing modes."
+    },
+    {
+      "id": 9,
+      "title": "Smart Home Hub",
+      "price": 149.99,
+      "description": "Centralized smart home hub for controlling various smart devices."
+    },
+    {
+      "id": 10,
+      "title": "Fitness Tracker",
+      "price": 89.99,
+      "description": "Compact fitness tracker with heart rate monitor and activity tracking."
+    }
+  ]
+}
